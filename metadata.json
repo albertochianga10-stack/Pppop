@@ -1,0 +1,7 @@
+{
+  "name": "AppleMar - Angola Import Analytics",
+  "description": "Análise em tempo real de tendências de importação do AliExpress, Shein e Alibaba para o mercado angolano.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
